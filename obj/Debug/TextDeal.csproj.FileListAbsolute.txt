@@ -1,0 +1,6 @@
+d:\visual studio 2013\Projects\TextDeal\TextDeal\bin\Debug\TextDeal.exe.config
+d:\visual studio 2013\Projects\TextDeal\TextDeal\bin\Debug\TextDeal.exe
+d:\visual studio 2013\Projects\TextDeal\TextDeal\bin\Debug\TextDeal.pdb
+d:\visual studio 2013\Projects\TextDeal\TextDeal\obj\Debug\TextDeal.csprojResolveAssemblyReference.cache
+d:\visual studio 2013\Projects\TextDeal\TextDeal\obj\Debug\TextDeal.exe
+d:\visual studio 2013\Projects\TextDeal\TextDeal\obj\Debug\TextDeal.pdb
