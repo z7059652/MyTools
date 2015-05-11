@@ -16,7 +16,9 @@ namespace TextDeal
             Console.WriteLine("process start");
 //             ITextDeal KW = new KeyWord("E:/Actual/ntusd.txt","E:/Actual/ntusdkey.txt");
 //             KW.TextDeal();
-            GenVector.INSTANCE.GenNegVector();
+//            GenVector.INSTANCE.GenNegVector();
+            ITextDeal ad = new ActualDeal();
+            ad.TextDeal();
         }
         public static bool WriteToFile(string path, string strdata)
         {
